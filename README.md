@@ -2,7 +2,7 @@
 
 If you hate looking at the left side of your screen, my name is Benjamin Steward, I am 18 years old and currently on my gap year :D, I am looking to enter a degree apprenticeship in software engineering. 
 
-Im currently working on "BogoSearch", a joke search algorithm based off of everyone's favourite algorithm "BogoSort", with a visualiser and GUI to allow users to set parameters such as the amount of indices 
+Im currently working on "BogoSearch", a joke search algorithm based off of everyone's favourite sorting algorithm "BogoSort", with a visualiser and GUI to allow users to set parameters such as the amount of indices 
 
 I mainly enjoy making PC games in C++ with SFML, I have huge list of projects brewing in the back of my mind so you might want to keep an eye out on my profile ;)
 (I do also intend to branch out and create some more general purpose software and games not only for PC but for mobile and other platforms)
