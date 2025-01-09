@@ -11,7 +11,7 @@ Computer Specs: 💪
 + CPU: i5-14400F
 + RAM: 32GB 
 + GPU: RTX 4070 TI Super
-+ Storage: 5.8TB of storage across multiple SSDs and HDDs
++ Storage: 7.8TB of storage across multiple SSDs and HDDs
 
 <!--
 **Mr-B-2006/Mr-B-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
