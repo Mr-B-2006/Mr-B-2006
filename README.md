@@ -1,6 +1,6 @@
 ## Welcome to my profile ^-^ ✌
 
-If you hate looking at the left side of your screen, my name is Benjamin Steward, I am 18 years old and currently on my gap year, I am looking to enter a degree apprenticeship in software engineering. 
+If you hate looking at the left side of your screen, my name is Benjamin Steward, I am 19 years old and currently on my gap year, I am looking to enter a degree apprenticeship in software engineering. 
 
 I'm currently working own my own game engine (Arrow Engine) and it's map editor tool (Bow), in C++ SFML
 
