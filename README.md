@@ -2,7 +2,7 @@
 
 If you hate looking at the left side of your screen, my name is Benjamin Steward, I am 19 years old and currently on my gap year, I am looking to enter a degree apprenticeship in software engineering. 
 
-I'm currently working own my own game engine (Arrow Engine) and it's map editor tool (Bow), in C++ SFML
+I'm currently working on GG15, a library for bulding applets for the Logitech G15 and similar peripherals in and for C++
 
 I mainly enjoy making PC games in C++ with SFML, I have huge list of projects brewing in the back of my mind so you might want to keep an eye out on my profile ;)
 (I do also intend to branch out and create some more general purpose software and games not only for PC but for mobile and other platforms)
